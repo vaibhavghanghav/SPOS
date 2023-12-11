@@ -1,0 +1,51 @@
+Line no. 	 Token no. 		 Token 			 Output
+
+      1		       0		 Identifier	 include
+      1		       1		 Identifier	   stdio
+      1		       2		 Identifier	       h
+      3		       3		 Operator	       /
+      3		       4		 Operator	       /
+      3		       5		 Identifier	    user
+      3		       6		 Identifier	 defined
+      3		       7		 Identifier	 function
+      3		       8		 Keyword	     int
+      3		       9		 Identifier	 findLRU
+      3		      10		 Keyword	     int
+      3		      11		 Identifier	    time
+      3		      12		 Keyword	     int
+      3		      13		 Identifier	       n
+      4		      14		 Special symbol	       {
+      5		      15		 Keyword	     int
+      5		      16		 Identifier	       i
+      5		      17		 Identifier	 minimum
+      5		      18		 Identifier	    time
+      5		      19		 Constant 		       0
+      5		      20		 Identifier	     pos
+      5		      21		 Constant 		       0
+      5		      22		 Special symbol	       ;
+      7		      23		 Identifier	     for
+      7		      24		 Special symbol	       (
+      7		      25		 Identifier	       i
+      7		      26		 Constant 		       1
+      7		      27		 Special symbol	       ;
+      7		      28		 Identifier	       i
+      7		      29		 Identifier	       n
+      7		      30		 Operator	       +
+      7		      31		 Operator	       +
+      7		      32		 Identifier	       i
+      8		      33		 Special symbol	       {
+      9		      34		 Keyword	      if
+      9		      35		 Special symbol	       (
+      9		      36		 Identifier	    time
+      9		      37		 Identifier	       i
+      9		      38		 Identifier	 minimum
+     10		      39		 Special symbol	       {
+     11		      40		 Identifier	 minimum
+     11		      41		 Identifier	    time
+     11		      42		 Identifier	       i
+     11		      43		 Special symbol	       ;
+     12		      44		 Identifier	     pos
+     12		      45		 Identifier	       i
+     13		      46		 Special symbol	       }
+     14		      47		 Special symbol	       }
+     15		      48		 Special symbol	       }
